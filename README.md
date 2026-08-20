@@ -1,6 +1,6 @@
 # JomCook Legal & Support Portal
 
-This repository hosts the official public legal and support pages for the **JomCook** mobile application. It is configured to deploy directly as a static website on **GitHub Pages**, providing the required public URLs for the **Google Play Console** and App Store.
+This repository hosts the official public legal and support pages for the **JomCook** mobile application, developed by **ywy dev**. It is configured to deploy directly as a static website on **GitHub Pages**, providing the required public URLs for the **Google Play Console** and App Store.
 
 ---
 
@@ -61,12 +61,12 @@ Provide the following URLs in the Google Play Console:
 
 ---
 
-## 📝 Customization & `TODO` Items
+## 📋 App & Developer Details
 
-Before submitting to Google Play Console, search for `[TODO:` in the files and update with your specific details:
-
-- **Support Email**: e.g., `support@jomcook.app` or your dedicated contact email.
-- **Developer / Entity Name**: Your legal name or organization name (e.g., `Ho Kah Yuen` / `JomCook Team`).
-- **Effective / Last Updated Date**: Update dates in `privacy-policy/index.html`.
-- **AI Provider Confirmation**: Check AI provider list (e.g., OpenAI / Google Gemini / Anthropic).
-- **Physical Address**: If applicable in your region.
+- **App Name:** JomCook
+- **Developer:** ywy dev
+- **Support Email:** ywy.dev@gmail.com
+- **AI Processing:** Google Gemini (Google LLC)
+- **Backend & Cloud Storage:** Supabase
+- **Subscriptions:** RevenueCat
+- **Advertisements:** Google AdMob
