@@ -13,6 +13,7 @@ Once GitHub Pages is enabled on this repository (`Hky0826/JomCook-Legal`), the p
 | **Home Portal** | `/` | `https://hky0826.github.io/JomCook-Legal/` |
 | **Privacy Policy** | `/privacy-policy/` | `https://hky0826.github.io/JomCook-Legal/privacy-policy/` |
 | **Account Deletion** | `/delete-account/` | `https://hky0826.github.io/JomCook-Legal/delete-account/` |
+| **AdMob App-Ads.txt** | `/app-ads.txt` | `https://hky0826.github.io/JomCook-Legal/app-ads.txt` |
 
 ---
 
@@ -21,6 +22,8 @@ Once GitHub Pages is enabled on this repository (`Hky0826/JomCook-Legal`), the p
 ```text
 JomCook-Legal/
 ├── index.html                  # Landing page with navigation cards
+├── app-ads.txt                 # Google AdMob authorized sellers list
+├── .nojekyll                   # Ensures raw text static file serving
 ├── css/
 │   └── style.css               # Clean, responsive, accessible CSS
 ├── privacy-policy/
